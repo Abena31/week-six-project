@@ -37,7 +37,8 @@ li {
 }
 
 .forecast {
-  border: 1px solid cornflowerblue;
+  border: 1px solid;
+  color: #6495ed;
   padding: 15px;
   margin: 20px;
   border-radius: 30px;
